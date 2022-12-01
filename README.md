@@ -2,4 +2,4 @@ Welcome to my profile!
 
 Physicist, computer science enthusiast but most of all researcher in Magnetic Resonance Imaging.
 
-Please drop me a message if you're using one of my packages, appreciation is my source of motivation :)
+Please leave a star if you're using my code, appreciation is my source of motivation :)
